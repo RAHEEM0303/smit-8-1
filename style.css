@@ -1,0 +1,51 @@
+table, tr, td, th{
+    /* border: 3px solid black; */
+    border-collapse: collapse;
+  }
+tr, td, th{
+    height: 60px;
+    width: 60px;
+    /* border: 1px solid black; */
+}
+td:nth-child(even), th:nth-child(odd) {
+    background-color: #000000;
+  }
+h1{
+    background-color: #000000;
+    color: aliceblue;
+}
+input{
+  margin-bottom: 55px;
+  background-color:rgb( 73, 72, 72);
+  align-items: center;
+}
+input{
+  border: none;
+  border-bottom: 1px solid white;
+  outline: none;
+}
+.te{
+  margin-bottom: 50px;
+}
+form{
+  text-align: center;
+  margin-top: 80px;
+}
+label{
+  color: white;
+  margin-top: 20px;
+}
+input{
+  color: white;
+  
+}
+
+a{
+  color: white;
+  margin-top: 10px;
+}
+.ah{
+  color: #000000;
+  font-size: 50px; 
+  margin-bottom: 100px;
+}
